@@ -1,7 +1,8 @@
 Make soup.
-Good OrderWe just made a default arg
 Buy plants.Master Python!
 Anything
 My newest todo is added
 Last todo
-And lastly.
+And lastly.Improve the App
+Make soup.
+
