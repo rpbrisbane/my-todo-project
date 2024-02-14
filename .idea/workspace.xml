@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3eec9fe-09b4-4459-834f-675ec8d18aa6" name="Changes" comment="Change theme and add clock">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f3eec9fe-09b4-4459-834f-675ec8d18aa6" name="Changes" comment="Adjust python file for executable file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bonus1.executor": "Run",
-    "Python.bonus4.executor": "Run",
-    "Python.cli (1).executor": "Run",
-    "Python.e1.executor": "Run",
-    "Python.gui.executor": "Run",
-    "Python.zip_creator.executor": "Run",
-    "Python.zip_extractor.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/rpbri/PycharmProjects/pythonProjectClone",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bonus1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cli (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.e1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip_creator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip_extractor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rpbri/PycharmProjects/pythonProjectClone&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rpbri\PycharmProjects\pythonProject2\bonus" />
@@ -252,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707370415397</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adjust python file for executable file">
+      <option name="closed" value="true" />
+      <created>1707374942617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707374942617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +275,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial the complete and exit buttons" />
     <MESSAGE value="Change theme and add clock" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change theme and add clock" />
+    <MESSAGE value="Adjust python file for executable file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust python file for executable file" />
   </component>
 </project>
